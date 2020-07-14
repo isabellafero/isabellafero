@@ -1,16 +1,21 @@
-### Hi there 👋
+## Hi there 👋
 
-<!--
-**isabellafero/isabellafero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an engineer who currently works with embedded systems development.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Just a :woman: who codes and :heart: to learn.
+
+### 🔭 Areas of interest
+- Embedded systems,
+- Robotics,
+- Artificial intelligence.
+
+### 📫 How to reach me:
+
+- Linkedin: [Isabella Ferreira de Oliveira](https://www.linkedin.com/in/isabellaferoli/)
+- Intragram: [@isabellafero_](https://www.instagram.com/isabellafero_/)
+- Email: isabella.oliveira.f@gmail.com
+
+<p align='center'>
+<img align='center' src="https://visitor-badge.glitch.me/badge?page_id=isabellafero.visitor-badge">
+<p/>
