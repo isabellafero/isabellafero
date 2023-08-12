@@ -1,13 +1,9 @@
 ## Hi there 👋
 
-I'm an engineer who currently works with embedded systems development.
-
-
-Just a :woman: who codes and :heart: to learn.
+I'm Isabella, a control and automation engineer who loves the challenge of solving problems with code.
 
 ### 🔭 Areas of interest
 - Embedded systems,
-- Robotics,
 - Artificial intelligence.
 
 ### 📫 How to reach me:
@@ -16,6 +12,6 @@ Just a :woman: who codes and :heart: to learn.
 - Intragram: [@isabellafero_](https://www.instagram.com/isabellafero_/)
 - Email: isabella.oliveira.f@gmail.com
 
-<p align='center'>
-<img align='center' src="https://visitor-badge.glitch.me/badge?page_id=isabellafero.visitor-badge">
-<p/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isabellafero&layout=compact&theme=highcontrast&langs_count=10)
+
+![Isabella's GitHub stats](https://github-readme-stats.vercel.app/api?username=isabellafero&show_icons=true&theme=highcontrast&include_all_commits=true)
