@@ -25,10 +25,10 @@ I love the challenge of solving problems with code, bridging the gap between har
 ### 📊 GitHub Stats
 <div align="center">
   <a href="https://github.com/stats-organization/github-stats-extended">
-    <img height="180em" alt="Isabella's Github Stats" src="https://github-stats-extended.vercel.app/api?username=isabellafero&hide_title=true&show_icons=true&include_all_commits=true&theme=omni" />
+    <img height="150em" alt="Isabella's Github Stats" src="https://github-stats-extended.vercel.app/api?username=isabellafero&hide_title=true&show_icons=true&include_all_commits=true&theme=omni" />
   </a>
   <a href="https://github.com/stats-organization/github-stats-extended">
-    <img height="180em" alt="Isabella's Github languages" src="https://github-stats-extended.vercel.app/api/top-langs?username=isabellafero&layout=compact&hide_title=true&langs_count=6&hide_values=true&theme=omni" />
+    <img height="150em" alt="Isabella's Github languages" src="https://github-stats-extended.vercel.app/api/top-langs?username=isabellafero&layout=compact&hide_title=true&langs_count=6&hide_values=true&theme=omni" />
   </a>
 </div>
 
